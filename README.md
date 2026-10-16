@@ -1,1 +1,1 @@
-This repo is a collection of Swift programming exercises, training projects, and iOS development coursework completed during Sandooq Al Watan's Swift Accelerator Programme.
+This repo is a collection of SwiftUI and iOS development exercises covering programming fundamentals, application development, and hands-on projects from Sandooq Al Watan's Swift Accelerator Programme.
